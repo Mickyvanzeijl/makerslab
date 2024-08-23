@@ -2,8 +2,8 @@
 title: Projects
 layout: collection
 permalink: /projects/
-collection: projects
+collection: recipes
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_projects`.
+Sample document listing for the collection `_recipes`.
