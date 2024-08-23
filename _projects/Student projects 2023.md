@@ -1,5 +1,5 @@
 ---
-title: "Oatmeal Cookies"
+title: "Student projects 2023"
 image: 
   path: /assets/images/oatmeal-cookies-lg.jpg
   thumbnail: /assets/images/oatmeal-cookies-400x200.jpg
