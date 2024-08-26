@@ -94,9 +94,10 @@ defaults:
     values:
       layout: post
       read_time: true
+    # projects
    - scope:
       path: "_projects"
-      type: projects
+      type: posts
      values:
       layout: post
       read_time: true 
