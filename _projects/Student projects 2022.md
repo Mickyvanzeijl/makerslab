@@ -1,5 +1,6 @@
 ---
-title: "Student projects 2022"
+title: "Student projects 2024"
+layout: page
 image: 
   path: /assets/images/peanut-butter-cookies-lg.jpg
   thumbnail: /assets/images/peanut-butter-cookies-400x200.jpg

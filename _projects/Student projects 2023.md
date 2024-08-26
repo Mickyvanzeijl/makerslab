@@ -1,5 +1,6 @@
 ---
 title: "Student projects 2023"
+layout: page
 image: 
   path: /assets/images/oatmeal-cookies-lg.jpg
   thumbnail: /assets/images/oatmeal-cookies-400x200.jpg
