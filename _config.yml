@@ -17,8 +17,8 @@ lang: en-US
 title: Minor Makers Lab
 email:
 description:
-baseurl: 
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: https://mickyvanzeijl.github.io/makerslab/
+url: https://mickyvanzeijl.github.io/makerslab/
 author:
   name: Micky van Zeijl
   twitter:
