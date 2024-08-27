@@ -79,7 +79,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-
+  topics:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -87,18 +89,18 @@ collections:
 
 # Front Matter Defaults
 defaults:
-  # _posts
+  # _topics
   - scope:
-      path: "_posts"
-      type: posts
+      path: "_topics"
+      type: page
     values:
       layout: post
       read_time: true
 
-  # _posts
+  # _projects
   - scope:
       path: "_projects"
-      type: posts
+      type: page
     values:
       layout: post
       read_time: true
