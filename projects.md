@@ -6,7 +6,7 @@ collection: projects
 entries_layout: grid
 show_excerpts: # true (default), false
 sort_by: date 
-sort_order: # forward (default), reverse
+sort_order: reverse
 ---
 
 Archive of our student project work
