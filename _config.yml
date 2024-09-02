@@ -81,6 +81,7 @@ collections:
     permalink: /:collection/:path/
   topics:
     output: true
+    show_excerpts: false
     permalink: /:collection/:path/
 
 

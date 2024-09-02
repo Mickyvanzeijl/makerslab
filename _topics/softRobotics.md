@@ -3,9 +3,9 @@ layout: page
 author: Micky
 title:  "Soft Robotics"
 image: 
-  path: /assets/images/2023/2023_lg.jpg
-  thumbnail: /assets/images/2023/2023_thumb.jpg
-  caption: "Photo collection 2023 student projects"
+  path: /assets/images/topics/soft_lg.jpg
+  thumbnail: /assets/images/topics/soft_thumb.jpg
+  caption: "soft robotics"
 ---
 We explore the fascinating world of soft robotics. Soft robotics is a bio-inspired approach that combines the collaboration of biology, engineering, design, sensing and control. It investigates the functional principles of shape, movement, control and sensing of soft biological systems. It reverse-engineers these principles and uses it for new applications.
 
