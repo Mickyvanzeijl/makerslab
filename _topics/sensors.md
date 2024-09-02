@@ -1,12 +1,15 @@
 ---
 layout: page
 author: Micky
-title:  "Sensors"
+title:  "Electronics"
 image: 
-  path: /assets/images/topics/soft_lg.jpg
-  thumbnail: /assets/images/topics/soft_thumb.jpg
+  path: /assets/images/topics/sensors_lg.jpg
+  thumbnail: /assets/images/topics/sensors_thumb.jpg
   caption: "sensors"
 ---
+
+
+
 
 ## Making sensors
 
