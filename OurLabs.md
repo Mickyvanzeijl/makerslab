@@ -6,6 +6,8 @@ image:
   caption: "makerslab"
 
 ---
+We mainly work in Makerslab
+
 
 ## Makers Lab
 

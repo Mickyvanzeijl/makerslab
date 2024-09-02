@@ -11,7 +11,7 @@ In a world where disposable products dominate, it’s time to rethink the value 
 This semester, the Makers Lab at the Amsterdam University of Applied Sciences is your playground.
 
 ## Week 1-10: course work
-The first half of the minor focuses on experiments and tinkering. We’ll explore the wonderful world of DIY critical making and digital fabrication.
+The first half of the minor focuses on experiments and tinkering. We’ll explore the wonderful world of DIY critical making and digital fabrication. We'll dive into a variety of topics with weekly assignments.
 
 ## Week 11-12: project work
 This second half of this minor program offers a unique opportunity to apply what you learned while working with a transdisciplinary team on a research project. You’ll rediscover the potential of traditional materials and techniques. You’ll learn how to use them in the context of high-tech crafts and sustainable fabrication. 
