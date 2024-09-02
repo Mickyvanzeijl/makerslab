@@ -4,7 +4,7 @@ layout: collection
 permalink: /topics/
 collection: topics
 entries_layout: grid
-show_excerpts: # true (default), false
+show_excerpts: false
 sort_by: title 
 sort_order: #reverse
 ---
