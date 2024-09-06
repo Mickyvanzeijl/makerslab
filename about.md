@@ -25,7 +25,7 @@ This second half of this minor program offers a unique opportunity to apply what
 
 Join us in the Minor Makers Lab and discover the art of making in the 21st century. Unleash your creativity and make a positive impact on the world!
 
-![expo student work](../assets/images/about/studentsMinor.jpg)
+![expo student work](assets/images/about/studentsMinor.jpg)
 
 ## Learning Objectives
 At the end of this minor you have developed yourself as transdisciplinairy tinkerer. You bring valuable hands-on knowledge and maker skills to any professional environment: you can work with conceptual frameworks to initiate question-driven design processes with an awareness of the context. This allows you to develop an ethical contemporary maker practice and share your expertise in a way that allows others to build on and learn from your work.
@@ -33,12 +33,12 @@ At the end of this minor you have developed yourself as transdisciplinairy tinke
 ## Transdisciplinairy Learning
 The student brings in their own expertise, values the expertise of other students and finds synergy with various different disciplines to create and tinker purposeful ideas and concepts.
 
-![expo student work](../../assets/images/about/studentsMinor3.jpg)
+![expo student work](assets/images/about/studentsMinor3.jpg)
 
 ## Digital Crafts and Making
 The student understands both material and technology and knows how to manipulate, tinker and experiment with it. The student is aware of their responsibility and the impact of making by actively building upon what is already out there and by giving back through sharing their insights with the (maker) community.
 
-![expo student work](../../assets/images/about/studentsMinor4.jpg)
+![expo student work](assets/images/about/studentsMinor4.jpg)
 
 ## Admission info
 This course is offered in semester 2 (February - July)
@@ -50,10 +50,10 @@ This course is offered in semester 2 (February - July)
 This minor welcomes students with an open, curious and analytical attitude, coming from a fashion, design, art or engineering background, who have demonstrable experience with 2 or more of the following at intermediate level: 3D modeling, electronics, 2D design (vector drawing), programming skills, garment construction, molding & casting, mechanical engineering/machine building. As the entire program is taught in English, participants are required to speak English well and are able to read and understand English texts.
 
 ​
-![expo student work](../../assets/images/about/expoSun.jpg)
+![expo student work](assets/images/about/expoSun.jpg)
 
 ## Teaching staff & coordination
 ​​Micky van Zeijl | Harm van Vugt| Sam Edens | Ista Boszhard | and guests
 
-![expo student work](../../assets/images/about/studentsMinor2.jpg)
+![expo student work](assets/images/about/studentsMinor2.jpg)
 
