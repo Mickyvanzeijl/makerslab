@@ -8,17 +8,22 @@ image:
 
 Join us for a semester (30 ects)of transdisciplinary making, experiments, hacking, tinkering, digital fabrication, soft robotics, and electronics. This semester course offered at the Amsterdam University of Applied Sciences provides intense training in digital fabrication (tools and techniques like laser cutting, 3D printing, new materials, and electronics) and an introduction to tinkering and making-as-research.
 
+![expo student work](assets/images/about/expoBlazer.jpg)
+
+
 In a world where disposable products dominate, it’s time to rethink the value of making and the way we make things. We have a DIY and open-source approach. This international minor challenges you to think critically about the impact of your creations on the environment. We explore alternative and more sustainable ways of making things. We aim to empower you to become a critical maker and tinkerer. In this minor, the act of making and tinkering is a way to research, discover, and push boundaries. 
 
 This semester, the Makers Lab at the Amsterdam University of Applied Sciences is your playground.
 
-![expo student work](assets/images/about/expoSamples.jpg)
 
+![expo student work](assets/images/about/expoPride.jpg)
 
 
 ## Week 1-10: course work
 The first half of the minor focuses on experiments and tinkering. We’ll explore the wonderful world of DIY critical making and digital fabrication. We'll dive into a variety of topics with weekly assignments.
 
+
+![expo student work](assets/images/about/expoSamples.jpg)
 
 ## Week 11-12: project work
 This second half of this minor program offers a unique opportunity to apply what you learned while working with a transdisciplinary team on a research project. You’ll rediscover the potential of traditional materials and techniques. You’ll learn how to use them in the context of high-tech crafts and sustainable fabrication. 
@@ -38,7 +43,7 @@ The student brings in their own expertise, values the expertise of other student
 ## Digital Crafts and Making
 The student understands both material and technology and knows how to manipulate, tinker and experiment with it. The student is aware of their responsibility and the impact of making by actively building upon what is already out there and by giving back through sharing their insights with the (maker) community.
 
-![expo student work](assets/images/about/studentsMinor4.jpg)
+![expo student work](assets/images/about/studentsMinor2.jpg)
 
 ## Admission info
 This course is offered in semester 2 (February - July)
@@ -55,5 +60,4 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 ## Teaching staff & coordination
 ​​Micky van Zeijl | Harm van Vugt| Sam Edens | Ista Boszhard | and guests
 
-![expo student work](assets/images/about/studentsMinor2.jpg)
 
