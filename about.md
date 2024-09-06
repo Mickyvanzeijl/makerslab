@@ -14,6 +14,8 @@ This semester, the Makers Lab at the Amsterdam University of Applied Sciences is
 
 ![expo student work](../../assets/images/about/expoSamples.jpg)
 
+
+
 ## Week 1-10: course work
 The first half of the minor focuses on experiments and tinkering. We’ll explore the wonderful world of DIY critical making and digital fabrication. We'll dive into a variety of topics with weekly assignments.
 
@@ -52,4 +54,6 @@ This minor welcomes students with an open, curious and analytical attitude, comi
 
 ## Teaching staff & coordination
 ​​Micky van Zeijl | Harm van Vugt| Sam Edens | Ista Boszhard | and guests
+
+![expo student work](../../assets/images/about/studentsMinor2.jpg)
 
