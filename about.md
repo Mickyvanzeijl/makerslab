@@ -12,7 +12,7 @@ In a world where disposable products dominate, it’s time to rethink the value 
 
 This semester, the Makers Lab at the Amsterdam University of Applied Sciences is your playground.
 
-![expo student work](../../assets/images/about/expoSamples.jpg)
+![expo student work](assets/images/about/expoSamples.jpg)
 
 
 
@@ -25,7 +25,7 @@ This second half of this minor program offers a unique opportunity to apply what
 
 Join us in the Minor Makers Lab and discover the art of making in the 21st century. Unleash your creativity and make a positive impact on the world!
 
-![expo student work](../../assets/images/about/studentsMinor.jpg)
+![expo student work](../assets/images/about/studentsMinor.jpg)
 
 ## Learning Objectives
 At the end of this minor you have developed yourself as transdisciplinairy tinkerer. You bring valuable hands-on knowledge and maker skills to any professional environment: you can work with conceptual frameworks to initiate question-driven design processes with an awareness of the context. This allows you to develop an ethical contemporary maker practice and share your expertise in a way that allows others to build on and learn from your work.
