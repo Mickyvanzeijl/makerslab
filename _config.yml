@@ -39,7 +39,6 @@ algolia:
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: # previsously gems
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
@@ -52,6 +51,7 @@ paginate_path: /page:num/
 
 # Exclude from processing.
 exclude:
+  - jekyll-feed
   - .asset-cache
   - .bundle
   - .codeclimate.yml
