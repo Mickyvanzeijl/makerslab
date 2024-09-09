@@ -23,13 +23,14 @@ This semester, the Makers Lab at the Amsterdam University of Applied Sciences is
 
 ![expo student work](assets/images/about/expoPride.jpg)
 ## Week 1-10: course work
-The first half of the minor focuses on experiments and tinkering. We’ll explore the wonderful world of DIY critical making and digital fabrication. We'll dive into a variety of topics with weekly assignments.
+The first half of the minor focuses on experiments and tinkering. We’ll explore the wonderful world of DIY critical making and digital fabrication. We'll dive into a variety of topics with weekly assignments. To get an idea of possible themes and topics take a look at [our topics page](https://mickyvanzeijl.github.io/makerslab/topics/). 
 
 
 ![expo student work](assets/images/about/expoSamples.jpg)
 
 ## Week 11-12: project work
-This second half of this minor program offers a unique opportunity to apply what you learned while working with a transdisciplinary team on a research project. You’ll rediscover the potential of traditional materials and techniques. You’ll learn how to use them in the context of high-tech crafts and sustainable fabrication. 
+This second half of this minor program offers a unique opportunity to apply what you learned while working with a transdisciplinary team on a research project. You’ll rediscover the potential of traditional materials and techniques. You’ll learn how to use them in the context of high-tech crafts and sustainable fabrication. To get an idea of student project work, take a look at [our project archive](https://mickyvanzeijl.github.io/makerslab/projects/).
+
 
 Join us in the Minor Makers Lab and discover the art of making in the 21st century. Unleash your creativity and make a positive impact on the world!
 
