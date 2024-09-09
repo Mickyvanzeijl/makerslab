@@ -5,6 +5,8 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 show_excerpts: # true (default), false
+image: 
+  path: /assets/images/2024/2024_lg2.jpg
 sort_by: date 
 sort_order: reverse
 ---
